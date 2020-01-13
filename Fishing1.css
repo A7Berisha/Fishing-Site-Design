@@ -1,0 +1,190 @@
+#Menu {
+background-image:url(data:image/jpeg;base64,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);
+}
+
+#anchor {
+    font-size:3rem;
+    color:#c4c4c4;
+    background-color:black;
+}
+
+
+.MenuOpts {
+    font-family:"Courgette";
+}
+
+.MenuOpts:hover {
+    background-color:rgba(0, 0, 0,0.5);
+}
+
+#TopPart {
+    background-image:url("https://images.unsplash.com/photo-1543763479-fb7533fcbf3b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1950&q=80");
+    background-size:cover;
+    background-repeat:no-repeat;
+    height:40rem;
+}
+
+#Welcome {
+    background-color:rgba(0,0,0,0);
+    text-align:center;
+    padding-top:12rem;
+    font-family:"Courgette";
+    color:white;
+}
+
+#looking {
+    font-size:2rem;
+    color:white;
+}
+
+#Jim {
+    color:rgba(220,20,60,0.9);
+}
+
+#main {
+    background-color:rgb(121, 0, 24);
+    padding-bottom:8rem;
+}
+
+#Prods {
+    font-family:"Courgette";
+    color:white;
+    padding-top:7rem;
+}
+
+#Black {
+    background-color:black;
+}
+
+.Title {
+    color:white;
+    font-family:"Courgette";
+}
+
+.CardBody:hover {
+    background-color:grey;
+}
+
+#Second {
+    background-color:#d6d6d6;
+    border:2px black solid;
+}
+
+#ThiefCard {
+    background-color:rgba(0,0,0,0);
+    border-color:rgba(0,0,0,0);
+}
+
+#Jarvis {
+    color:rgb(170, 0, 34);
+    font-family:"Roboto";
+    font-weight:600;
+}
+
+#ReviewOne {
+    color:rgb(170, 0, 34);
+    font-family:"Roboto";
+    font-weight:400;
+}
+
+#Dog {
+    font-family:"Roboto";
+    font-weight:600;
+}
+
+#ReviewTwo {
+    color:black;
+    font-family:"Roboto";
+    font-weight:400;
+}
+
+#DogCard {
+    background-color:rgba(0,0,0,0);
+    border-color:rgba(0,0,0,0); 
+}
+
+#BottomBar {
+    background-color:black;
+}
+
+.Icons {
+    color:grey;
+    font-size:4rem;
+}
+
+#Limited {
+    font-size:1rem;
+    color:grey;
+}
+
+@media (min-width:1200px) {
+    #Welcome {
+        color:black;
+    }
+}
+
+@media (max-width:700px) {
+    #ReviewOne {
+        font-size:1.3rem;
+    }
+    
+    #ReviewTwo {
+        font-size:1.3rem;
+    }
+    #Jarvis {
+        font-size:1.5rem;
+    }
+    #Dog {
+        font-size:1.5rem;
+    }
+}
+
+@media (max-width:575px) {
+    #anchor {
+        font-size:rem;
+    }
+    #Prods {
+        padding-top:5rem;
+    }
+}
+
+@media (max-width:500px) {
+    #Prods {
+        font-size:2rem;
+    }
+    #ReviewOne {
+        font-size:1rem;
+    }
+    #ReviewTwo {
+        font-size:1rem;
+    }
+}
+
+@media (max-width:450px) {
+    #Prods {
+        font-size:1.5rem;
+    }    
+    #looking {
+        font-size:1.5rem;
+    }
+}
+
+@media (max-width:375px) {
+    #Fishing {
+        font-size:2.8rem;
+    }
+
+    #Prods {
+        font-size:1.2rem;
+    }   
+    
+    #Limited {
+        font-size:0.75rem;
+    }
+}
+
+
+
+
+
+
